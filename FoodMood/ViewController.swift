@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         print("Hi!")
         //testing123
         print("Pls work")
+        print("Hello")
+
 
     }
 
